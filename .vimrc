@@ -1,3 +1,4 @@
+" set terminal colors to 256 so that we can use themes
 set t_Co=256
 set nocompatible              " be iMproved, required
 filetype off                  " required
