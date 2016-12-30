@@ -47,3 +47,4 @@ filetype plugin indent on    " required
 syntax enable
 colorscheme arcadia
 set number
+set undofile
