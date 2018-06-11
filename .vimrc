@@ -47,3 +47,4 @@ syntax enable
 silent! colorscheme molokai 
 set number
 set undofile
+hi Normal ctermbg=none  " This keeps the terminal background color
